@@ -1,6 +1,6 @@
 # Mood-detection
 
-EADME.TXT
+README.TXT
 
 AIM: TO DEVELOP A MOOD SENSEING APP
 
